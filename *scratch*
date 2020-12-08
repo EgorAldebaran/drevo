@@ -1,0 +1,15 @@
+object(Controller)#1 (3) { ["hello"]=> NULL ["model"]=> object(Model)#2 (2) {
+["S":"Model":private]=> array(7) { [0]=> int(101) [1]=> int(202) [2]=> int(303) [3]=> int(404) [4]=>
+int(101) [5]=> int(3030) [6]=> int(3030) } ["TOTAL"]=> int(7171) } ["view"]=> object(View)#3 (0) { }
+} NULL
+
+object(Controller)#1 (3) { ["hello"]=> NULL ["model"]=> object(Model)#2 (2) {
+["S":"Model":private]=> array(7) { [0]=> int(101) [1]=> int(202) [2]=> int(303) [3]=> int(404) [4]=>
+int(101) [5]=> int(3030) [6]=> int(3030) } ["TOTAL"]=> NULL } ["view"]=> object(View)#3 (0) { } }
+
+
+
+object(Controller)#1 (3) { ["hello"]=> NULL ["model"]=> object(Model)#2 (2) {
+["S":"Model":private]=> array(7) { [0]=> int(101) [1]=> int(202) [2]=> int(303) [3]=> int(404) [4]=>
+int(101) [5]=> int(3030) [6]=> int(3030) } ["TOTAL"]=> int(7171) } ["view"]=> object(View)#3 (0) { }
+}
